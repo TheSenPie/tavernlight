@@ -1,0 +1,9 @@
+Module
+  name: game_playershader
+  description: Adds a trail effect to moving player
+  author: Smbat Voskanyan
+  website: https://smbat.sandm.cc/
+  scripts: [ playershader.lua ]
+  sandboxed: true
+  @onLoad: init()
+  @onUnload: terminate()
