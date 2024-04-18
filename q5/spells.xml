@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spells>
+	<!-- Attack Spells -->
+	<instant group="attack" spellid="666" range="5" name="Small Winter" words="frigo" level="1" mana="1" premium="0" cooldown="1" groupcooldown="1" needlearn="0" script="attack/small_winter.lua">
+		<vocation name="Druid" />
+		<vocation name="Elder Druid" />
+	</instant>
+</spells>
