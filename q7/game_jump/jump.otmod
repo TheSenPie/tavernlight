@@ -1,0 +1,9 @@
+Module
+  name: game_jump
+  description: Jump
+  author: Smbat V.
+  website: N/A
+  sandboxed: true
+  scripts: [ jump.lua ]
+  @onLoad: init()
+  @onUnload: terminate()

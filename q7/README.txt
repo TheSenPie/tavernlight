@@ -1,0 +1,1 @@
+Here's is the jump button module code I wrote which I placed in otclient/modules directory. Note the recording application I used had a bug, that's why it seems like my mouse is in another place, but I was clicking the actual button.

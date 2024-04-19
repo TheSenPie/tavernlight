@@ -1,0 +1,10 @@
+MainWindow
+  id: JumpWindow
+  size: 450 450
+
+  Button
+    id: jumpButton
+    !text: tr('Jump')
+    width: 90
+    @onClick: modules.game_jump.jump()
+
